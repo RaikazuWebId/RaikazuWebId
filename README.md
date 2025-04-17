@@ -1,6 +1,6 @@
 <h1 align = "center">
 
-raikazuwebid.github.io - [Website](https://zemerik.is-a.dev)
+www.wendi.biz.id - [Website](https://zemerik.is-a.dev)
 
 </h1>
 
