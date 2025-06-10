@@ -1,6 +1,6 @@
 <h1 align = "center">
 
-www.wendi.biz.id - [Website](https://zemerik.is-a.dev)
+Web Pribadi - [Klik Menuju Web](https://wendi.biz.id/)
 
 </h1>
 
