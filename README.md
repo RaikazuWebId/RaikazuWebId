@@ -1,6 +1,6 @@
 <h1 align = "center">
 
-Web Pribadi - [Klik Menuju Web](https://wendi.biz.id/)
+Welcome To Profile - [Klik Menuju Web](https://wendi.biz.id/)
 
 </h1>
 
